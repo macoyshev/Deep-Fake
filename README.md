@@ -1,2 +1,2 @@
 # Deep-Fake
-Create your own DeepFake-With python in Google Colab
+Create your own DeepFake-With python in Google Colab. There are two things required to be created for deep fake , A source Image and the Video which is required to be imprinted over the source image. Need to clone one of the repositories which is required for model creating. We don't need to train any network for this only to provide the path of the model. The code is implemented in Torch and hence GPU is required . 
